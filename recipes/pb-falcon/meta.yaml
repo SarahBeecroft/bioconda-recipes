@@ -29,7 +29,7 @@ requirements:
   run:
     - htslib
     - python
-    - networkx >=1.9.1
+    - networkx =1.9.1
     - future >=0.16.0
     - python-edlib>=1.2.4
     - python-intervaltree
